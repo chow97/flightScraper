@@ -7,3 +7,4 @@ url = 'https://www.kayak.com/flights/KUL-SEA/2021-02-01?sort=bestflight_a&fs=air
 
 driver.get(url)
 
+driver
